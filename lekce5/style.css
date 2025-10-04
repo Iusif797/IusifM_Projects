@@ -94,3 +94,36 @@ p{
     /* top: 100px; */
     
 }
+
+.dopis {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.sluchatka {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.kniha {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+  }
+  
+  /* Спящая кошка - правый нижний угол */
+  .spanek {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+  }
+  
+  /* Кошка с бабочкой - центр */
+  .motyl {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
